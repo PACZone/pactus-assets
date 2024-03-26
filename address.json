@@ -46,5 +46,17 @@
         "name": "RoboPac Wallet",
         "image": "https://github.com/robopac-project/RoboPac/blob/main/assets/robopac.png",
         "description": "RoboPac is a Robot that provides support and information about the Pactus Blockchain."
+    },
+    {
+        "address": "pc1zuavu4sjcxcx9zsl8rlwwx0amnl94sp0el3u37g",
+        "name": "Pactus foundation HotWallet 1",
+        "image": "",
+        "description": "Pactus foundation moves reserved addresses funds to this address as a HotWallet and use them"
+    },
+    {
+        "address": "pc1zf0gyc4kxlfsvu64pheqzmk8r9eyzxqvxlk6s6t",
+        "name": "Pactus foundation HotWallet 2",
+        "image": "",
+        "description": "Pactus foundation moves reserved addresses funds to this address as a HotWallet and use them"
     }
 ]
