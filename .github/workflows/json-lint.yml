@@ -1,0 +1,21 @@
+name: Validating Json and Yaml Files
+
+on:
+    pull_request_target:
+      types:
+        - opened
+        - edited
+        - synchronize
+
+permissions:
+  contents: read
+
+jobs:
+  json-yaml-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validating Json and Yaml Files
+        id: json-yaml-validate
+        uses: GrantBirki/json-yaml-validate@v2.6.1

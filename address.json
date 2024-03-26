@@ -1,0 +1,44 @@
+[
+    {
+        "address": "000000000000000000000000000000000000000000",
+        "name": "Treasury",
+        "image": "",
+        "description": "The Treasury account is a special account in Pactus blockchain that holds 21 million coins at the genesis time used for block rewards."
+    },
+    {
+        "address": "pc1z2r0fmu8sg2ffa0tgrr08gnefcxl2kq7wvquf8z",
+        "name": "Foundation",
+        "image": "",
+        "description": "The Foundation account is a special account in Pactus blockchain that holds 8.4 million coins at the genesis time."
+    },
+    {
+        "address": "pc1zprhnvcsy3pthekdcu28cw8muw4f432hkwgfasv",
+        "name": "VC Allocation",
+        "image": "",
+        "description": "The VC Allocation account is a special account in Pactus blockchain that holds 6.3 million coins at the genesis time."
+    },
+    {
+        "address": "pc1znn2qxsugfrt7j4608zvtnxf8dnz8skrxguyf45",
+        "name": "Team and Operations",
+        "image": "",
+        "description": "The Team and Operations account is a special account in Pactus blockchain that holds 4.2 million coins at the genesis time."
+    },
+    {
+        "address": "pc1zs64vdggjcshumjwzaskhfn0j9gfpkvche3kxd3",
+        "name": "Community",
+        "image": "",
+        "description": "The Community account is a special account in Pactus blockchain that holds 2.1 million coins at the genesis time."
+    },
+    {
+        "address": "pc1zhcp2efpvghz4wszysq9jjst2qnwsc78gk84jnw",
+        "name": "Exbitron Exchange",
+        "image": "https://kb.exbitron.com/static/exbitron-icon.png",
+        "description": "Centralized Cryptocurrency Exchange, mostly focus on new projects that we think have a good and great future ahead of them."
+    },
+    {
+        "address": "pc1zmq3exgnjn4w7unuu5cmqp2eauz0eat84aec7ev",
+        "name": "PacViewer Explorer Donation",
+        "image": "",
+        "description": "Pactus Blockchain Explorer, Discover the Brilliance of Pactus Explorer."
+    }
+]
