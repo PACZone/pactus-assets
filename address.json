@@ -40,5 +40,11 @@
         "name": "PacViewer Explorer Donation",
         "image": "",
         "description": "Pactus Blockchain Explorer, Discover the Brilliance of Pactus Explorer."
+    },
+    {
+        "address": "pc1z5eaquqt8fuadnhanx6xyzqn0c23mfnmraqsaql",
+        "name": "RoboPac Wallet",
+        "image": "https://github.com/robopac-project/RoboPac/blob/main/assets/robopac.png",
+        "description": "RoboPac is a Robot that provides support and information about the Pactus Blockchain."
     }
 ]
