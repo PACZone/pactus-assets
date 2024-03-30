@@ -1,15 +1,10 @@
 name: Checking Broken Links
 
 on:
-  push:
-    branches:
-      - main
-
-  pull_request_target:
-    types:
-      - opened
-      - edited
-      - synchronize
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: "00 18 * * *"
 
 jobs:
   linkChecker:
