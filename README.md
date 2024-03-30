@@ -4,7 +4,7 @@ This is a list of popular addresses and assets on The Pactus Blockchain. We are 
 
 ### Accounts
 
-This is a short List, see the full list in [accounts.json](./address.json)
+This is a short List, see the full list in [accounts.json](./accounts.json)
 
 Name           | Address
 ---------------|-----------
@@ -26,6 +26,12 @@ Empty | Empty
 > [!IMPORTANT]
 > Pactus doesn't support contracts for now, this section will be added after contract support.
 
+### TestNet
+
+Other networks, such as Phoenix test network assets can be find in their specific directory, containing the accounts, validators files beside their own readme and docs.
+
+For example you can fins Phoenix testnet assets [here](./phoenix).
+
 ## Contribution
 
 Please make sure you are adding a famous or well-known address, assets. make sure you are following correct json format.
@@ -33,3 +39,4 @@ Please make sure you are adding a famous or well-known address, assets. make sur
 ## Usage
 
 You can use this assets to show name, logo and link instead of only address on your service such as explorer and etc.
+For example you can use [this link](https://raw.githubusercontent.com/kehiy/pactus-assets/main/address.json), to get all mainnet accounts listed here with metadata.
