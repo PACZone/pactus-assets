@@ -1,0 +1,8 @@
+[
+    {
+        "address": "000000000000000000000000000000000000000000",
+        "name": "Treasury",
+        "image": "",
+        "description": "The Treasury account is a special account in Pactus blockchain that holds 21 million coins at the genesis time used for block rewards."
+    }
+]
