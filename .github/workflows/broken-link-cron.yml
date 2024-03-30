@@ -1,4 +1,4 @@
-name: Checking Broken Links
+name: Checking Broken Links Cron Job
 
 on:
   repository_dispatch:
