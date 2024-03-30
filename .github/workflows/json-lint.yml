@@ -1,8 +1,12 @@
 name: Validating Json and Yaml Files
 
 on:
-    pull_request_target:
-      types:
+  push:
+    branches:
+      - main
+
+  pull_request_target:
+    types:
         - opened
         - edited
         - synchronize
