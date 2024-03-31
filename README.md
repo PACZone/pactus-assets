@@ -30,7 +30,7 @@ Empty | Empty
 
 Other networks, such as Phoenix test network assets can be found in their specific directory, containing the accounts, and validators files beside their readme and docs.
 
-For example, you can find Phoenix testnet assets [here](./phoenix).
+For example, you can find Phoenix TestNet assets [here](./phoenix).
 
 ## Contribution
 
@@ -39,4 +39,4 @@ Please make sure you are adding a famous or well-known address and assets. make 
 ## Usage
 
 You can use these assets to show name, logo, and link instead of only the address on your service such as Explorer etc.
-For example, you can use [this link](https://raw.githubusercontent.com/PACZone/pactus-assets/main/address.json), to get all mainnet accounts listed here with metadata.
+For example, you can use [this link](https://raw.githubusercontent.com/PACZone/pactus-assets/main/accounts.json), to get all MainNet accounts listed here with metadata.
