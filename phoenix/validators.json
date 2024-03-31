@@ -1,9 +1,12 @@
 [
     {
-        "address": "",
+        "address": [
+            ""
+        ],
         "name": "",
         "image": "",
         "website": "",
+        "contact_email": "",
         "description": ""
     }
 ]
