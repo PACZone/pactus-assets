@@ -4,7 +4,7 @@ This is a list of popular addresses and assets on The Pactus Blockchain. We are 
 
 ### Accounts
 
-This is a Short List, see the full list in [accounts.json](./accounts.json)
+This is a Short List, see the full list in [accounts.json](./mainnet/accounts.json)
 
 Name           | Address
 ---------------|-----------
@@ -14,7 +14,7 @@ Name           | Address
 
 ### Validators
 
-This is a Short List, see the full list in [validators.json](./validators.json)
+This is a Short List, see the full list in [validators.json](./mainnet/validators.json)
 
 Name           | Address
 ---------------|-----------
