@@ -9,12 +9,12 @@
         "address": "tpc1zhjjg3zpypxu7vcr5ude7m5rl5z42x20qg9s09z",
         "name": "Dezh tech Faucet",
         "image": "https://github.com/dezh-tech/website/blob/main/public/logo.svg",
-        "description": "faucet address of dezh technologies"
+        "description": "Faucet address of Dezh Technologies"
     },
     {
         "address": "tpc1zlymfcuxlgvvuud2q4zw0scllqn74d2f90hld6w",
         "name": "Teleport lock address",
-        "image": "",
+        "image": "https://github.com/PACZone/teleport/blob/main/assets/teleport.png",
         "description": "TestNet version of teleport"
     }
 ]
