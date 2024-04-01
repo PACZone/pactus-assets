@@ -38,18 +38,18 @@ Please make sure you are adding a famous or well-known address and assets. make 
 
 ### Accounts
 
-To add an add an account, please make sure you add it to correct network (phoenix, mainnet and ...).
-You have to provide proofs that this is a well-known address and this is the correct address for the name, website and logo you are providing.
+To add an account, please make sure you add it to the correct network (phoenix, mainnet, and ...).
+You have to provide proof that this is a well-known address and this is the correct address for the name, website, and logo you are providing.
 
 ### Validators
 
-To add a validator (you can add your own validator too), you have to be a node runner or a featured validator. you need to have website, logo, contact email and use an official name, logo, website, and email not personal.
+To add a validator (you can add your validator too), you have to be a node runner or a featured validator. you need to have a website, logo, and contact email and use an official name, logo, website, and email not a personal one.
 
 
-> consider that you have to use correct and not broken links. if the links stopped working we will contact you and ask you to update it, otherwise we will remove the record or link itself.
+> Consider that you have to use correct and not broken links. if the links stopped working we will contact you and ask you to update it, otherwise we will remove the record or link itself.
 
 
 ## Usage
 
-You can use these assets to show name, logo, and link instead of only the address on your service such as Explorer etc.
-For example, you can use [this link](https://raw.githubusercontent.com/PACZone/pactus-assets/main/accounts.json), to get all MainNet accounts listed here with metadata.
+You can use these assets to show the name, logo, and link instead of only the address on your service such as Explorer, etc.
+For example, you can use [this link](https://raw.githubusercontent.com/PACZone/pactus-assets/main/mainnet/accounts.json), to get all MainNet accounts listed here with metadata.
