@@ -1,18 +1,13 @@
-name: Checking Broken Links
+name: Checking Broken Links Cron Job
 
 on:
-  push:
-    branches:
-      - main
-
-  pull_request_target:
-    types:
-      - opened
-      - edited
-      - synchronize
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: "00 18 * * *"
 
 jobs:
-  linkChecking:
+  linkChecker:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
