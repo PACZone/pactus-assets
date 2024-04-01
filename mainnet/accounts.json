@@ -58,5 +58,11 @@
         "name": "Pactus foundation HotWallet 2",
         "image": "",
         "description": "Pactus foundation moves reserved addresses funds to this address as a HotWallet and use them"
+    },
+    {
+        "address": "pc1zpaxc4jue9s68tg5zyqcj59nc8nxlj39mf5fsvc",
+        "name": "Dezh technologies donation",
+        "image": "https://github.com/dezh-tech/website/blob/main/public/logo.svg",
+        "description": "Dezh Technologies is building tools, apps, services and infras that make decentralized web happens."
     }
 ]

@@ -1,12 +1,18 @@
 [
     {
         "address": [
-            ""
+            "tpc1p5hgx45pyxyakqqha9uhl46tlernukgaujkyd7y",
+            "tpc1pupkr2nmspamhmjaskkv9pcxwekvuppcnaxc02e",
+            "tpc1p9zfeccy2yx0y0g7xc7qw78z2f53u464hfttmz6",
+            "tpc1pde3jswcd2u5dc4n4a45j88z25u9tswnse05csu",
+            "tpc1p0qnm3vet7vakt0jz7k4r6e99qrsptpxnuthm8n",
+            "tpc1phd222z2mh2yhkr9att800xmxtnnsq8spy52npj",
+            "tpc1pv2wayw7wnh2nypyjz636m794emwjqhkfuqhr4s"
         ],
-        "name": "",
-        "image": "",
-        "website": "",
-        "contact_email": "",
-        "description": ""
+        "name": "Dezh technologies Phoenix testnet validators",
+        "image": "https://github.com/dezh-tech/website/blob/main/public/logo.svg",
+        "website": "https://dezh.tech",
+        "contact_email": "hi@dezh.tech",
+        "description": "Dezh Technologies is building tools, apps, services and infras that make decentralized web happens."
     }
 ]
