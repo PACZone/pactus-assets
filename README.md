@@ -1,6 +1,33 @@
-# PAC Assets
+<h1 align="center">
+Pactus Assets
+</h1>
 
+<h3 align="center">
 This is a list of popular addresses and assets on The Pactus Blockchain. We are open to pull requests but please read the manual at the end of this readme for PR.
+</h3>
+
+#
+
+<div align="center">
+
+[![Discord][d1]][d2]
+[![Twitter][t1]][t2]
+[![License][l1]][l2]
+
+[t1]: https://img.shields.io/twitter/follow/dezh_tech?style=social
+[t2]: https://twitter.com/dezh_tech
+
+[d1]: https://img.shields.io/discord/1220488598881828976?style=flat-square&label=Discord
+[d2]: https://discord.com/invite/nqkR6SBR49
+
+[l1]: https://img.shields.io/badge/License-MIT
+[l2]: https://github.com/PACZone/pactus-assets/blob/master/LICENSE
+
+</div>
+
+
+#
+
 
 ### Accounts
 
