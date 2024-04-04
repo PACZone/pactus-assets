@@ -45,7 +45,7 @@ This is a Short List, see the full list in [validators.json](./mainnet/validator
 
 Name           | Address
 ---------------|-----------
-Empty | Empty
+[Dezh Technologies](https://pacviewer.com/accounts/pc1pexwwrgygv3alj77mul0zpmhpl52sqtv38lv5de) | pc1pexwwrgygv3alj77mul0zpmhpl52sqtv38lv5de
 
 
 ### Tokens, Contracts, etc.
