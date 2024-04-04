@@ -64,5 +64,11 @@
         "name": "Dezh technologies donation",
         "image": "https://github.com/dezh-tech/website/blob/main/public/logo.svg",
         "description": "Dezh Technologies is building tools, apps, services and infras that make decentralized web happens."
+    },
+    {
+        "address": "pc1zu0ez67rz4ks89u0n5m5ga34saqw5e5uzm44hl9",
+        "name": "CodeBlockLabs Donation Wallet",
+        "image": "https://github.com/pramonoutomo/codeblocklabs/blob/1bcfdee074e37923b64c3405f69d0ebaa244c2aa/logo_white.jpg",
+        "description": "CodeBlockLabs are the #1 indonesian community focused on blockchain test and development accross multiple blockchain."
     }
 ]
