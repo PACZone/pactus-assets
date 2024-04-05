@@ -18,5 +18,16 @@
         "website": "https://codeblocklabs.com",
         "contact_email": "codeblocklabs@proton.me",
         "description": "CodeBlockLabs is the #1 indonesian community focused on blockchain test and development accross multiple blockchain."
+    },
+    {
+        "address": [
+            "pc1py4gdpqwvzmlfhlwgzu079248uf8jyzqu5xa24n",
+            "pc1pqgmdk5lnekhx8sxj4k70jh7ypjf0ul5x4kk446"
+        ],
+        "name": "WikiValidator",
+        "image": "https://validator.wiki/logo.png",
+        "website": "https://www.validator.wiki",
+        "contact_email": "team@validator.wiki",
+        "description": "WikiValidator is trusted Proof of Stake validator. Active ecosystem contributor, IBC relayer and chain service provider since 2021."
     }
 ]
