@@ -47,6 +47,7 @@ Name           | Address
 ---------------|-----------
 [Dezh Technologies](https://pacviewer.com/accounts/pc1pexwwrgygv3alj77mul0zpmhpl52sqtv38lv5de) | pc1pexwwrgygv3alj77mul0zpmhpl52sqtv38lv5de
 [CodeBlockLabs](https://codeblocklabs.com) | pc1pcd725zfn7ky3tp2axgzrps3tq37txj5vzduz5w
+[WikiValidator](https://www.validator.wiki) | pc1pqgmdk5lnekhx8sxj4k70jh7ypjf0ul5x4kk446
 
 
 ### Tokens, Contracts, etc.
