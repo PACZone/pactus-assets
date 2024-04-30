@@ -35,8 +35,9 @@ This is a Short List, see the full list in [accounts.json](./mainnet/accounts.js
 
 Name           | Address
 ---------------|-----------
-[Foundation](https://pacviewer.com/accounts/pc1z2r0fmu8sg2ffa0tgrr08gnefcxl2kq7wvquf8z) | pc1z2r0fmu8sg2ffa0tgrr08gnefcxl2kq7wvquf8z
+[Pactus Foundation](https://pacviewer.com/accounts/pc1z2r0fmu8sg2ffa0tgrr08gnefcxl2kq7wvquf8z) | pc1z2r0fmu8sg2ffa0tgrr08gnefcxl2kq7wvquf8z
 [Exbitron Exchange](https://pacviewer.com/accounts/pc1zhcp2efpvghz4wszysq9jjst2qnwsc78gk84jnw) | pc1zhcp2efpvghz4wszysq9jjst2qnwsc78gk84jnw
+[Xeggex Exchange 1](https://pacviewer.com/accounts/pc1z2wtq43p8fnueya9qufq9hkutyr899npk2suleu) | pc1z2wtq43p8fnueya9qufq9hkutyr899npk2suleu
 [PacViewer Explorer Donation](https://pacviewer.com/accounts/pc1zmq3exgnjn4w7unuu5cmqp2eauz0eat84aec7ev) | pc1zmq3exgnjn4w7unuu5cmqp2eauz0eat84aec7ev
 
 ### Validators
